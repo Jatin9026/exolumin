@@ -1,0 +1,4 @@
+project_id = "vmbkeyixttptrovmgqbf"
+
+[functions.predict-exoplanet]
+verify_jwt = false
